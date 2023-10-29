@@ -1,3 +1,5 @@
+![](s234_1duYBzNxC4ckm08qGLYebaVpyt9AmSXZymhEbklT_logo_416.jpg)
+
 # dscoreApp: Compute  Implicit Association Test D-score 
 
 #### Use app online: __[www.shinyappstore.com/a/dscoreApp](https://shinyappstore.com/a/dscoreApp)__
